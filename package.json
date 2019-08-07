@@ -1,0 +1,19 @@
+{
+  "name": "inteligent-how-to",
+  "version": "1.0.0",
+  "description": "Inteligent how to ptbr searcher",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "inteligent",
+    "how-to",
+    "searcher"
+  ],
+  "author": "Jean Souza & Matheus Lopes",
+  "license": "ISC",
+  "dependencies": {
+    "crawler": "^1.2.1"
+  }
+}
